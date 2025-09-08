@@ -1,0 +1,4 @@
+telethon==1.32.1
+python-dotenv==1.0.0
+pytz==2023.3
+python-binance==1.0.19
